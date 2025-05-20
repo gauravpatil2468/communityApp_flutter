@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBWUbCjC18prnwUx0TdXstKDmvH2EtC-Kw',
+    apiKey: '',
     appId: '1:959471381015:web:e38239398b5a1b53488a52',
     messagingSenderId: '959471381015',
     projectId: 'reddit-project-f83a5',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfMUUejisuWITEtMzU4T_5ZECwPrFvFpM',
+    apiKey: '',
     appId: '1:959471381015:android:853ea10ccd3e56fd488a52',
     messagingSenderId: '959471381015',
     projectId: 'reddit-project-f83a5',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAzQUqIXdbZK0MDwjg4KG3flxx2N1iOzJ0',
+    apiKey: '',
     appId: '1:959471381015:ios:02b0ce9edc4c9c94488a52',
     messagingSenderId: '959471381015',
     projectId: 'reddit-project-f83a5',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAzQUqIXdbZK0MDwjg4KG3flxx2N1iOzJ0',
+    apiKey: '',
     appId: '1:959471381015:ios:02b0ce9edc4c9c94488a52',
     messagingSenderId: '959471381015',
     projectId: 'reddit-project-f83a5',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBWUbCjC18prnwUx0TdXstKDmvH2EtC-Kw',
+    apiKey: '',
     appId: '1:959471381015:web:0e56d5b130dda529488a52',
     messagingSenderId: '959471381015',
     projectId: 'reddit-project-f83a5',
